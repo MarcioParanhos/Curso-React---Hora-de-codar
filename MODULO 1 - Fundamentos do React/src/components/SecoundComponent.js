@@ -1,8 +1,10 @@
+import MyComponent from "./MyComponent";
+
 const SecounudComponent = () => {
   return (
     <div>
-      <h1>Esse e meu Segundo componente</h1>
-      <p>Tomara que esteja funcionando</p>
+      <h1>Esse e meu Segundo Components</h1>
+      <MyComponent/>
     </div>
   );
 };
