@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "id": 4,
+      "name": "Camisa da Lacoste",
+      "price": 300
+    },
+    {
+      "name": "Marcio Paranhos",
+      "price": "250",
+      "id": 5
+    },
+    {
+      "name": "Teclado",
+      "price": "110",
+      "id": 6
+    },
+    {
+      "name": "Mouse",
+      "price": "85.50",
+      "id": 7
+    },
+    {
+      "name": "Marcio Paranhos",
+      "price": "25",
+      "id": 8
+    },
+    {
+      "name": "Sueli Paranhos",
+      "price": "589",
+      "id": 9
+    },
+    {
+      "name": "GokuDeMuleta",
+      "price": "789",
+      "id": 10
+    },
+    {
+      "name": "GokuDeMuleta",
+      "price": "123",
+      "id": 11
+    }
+  ]
+}
