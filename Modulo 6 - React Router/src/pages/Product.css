@@ -1,0 +1,35 @@
+.product {
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+}
+.card-product {
+  text-align: center;
+  border: 1px solid #232323;
+  border-radius: 15px;
+  width: 30%;
+  padding: 40px;
+}
+.card-product h1 {
+  margin-bottom: 30px;
+}
+.btn-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+.btn-product {
+  text-decoration: none;
+  background-color: #232323;
+  color: #fbf8f3;
+  padding: 5px;
+  border-radius: 10px;
+  border: 2px solid transparent;
+  transition: 0.5s;
+  width: 50%;
+}
+.btn-product:hover {
+  background-color: #fbf8f3;
+  border: 2px solid #232323;
+  color: #232323;
+}

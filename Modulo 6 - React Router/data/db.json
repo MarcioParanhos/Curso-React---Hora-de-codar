@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "id": 4,
+      "name": "Camisa da Lacoste",
+      "price": 300
+    },
+    {
+      "id": 5,
+      "name": "Carrinho de Controle",
+      "price": 28.45
+    }, {
+      "id": 6,
+      "name": "Luva de Pedreiro",
+      "price": 1.000
+    }, {
+      "id": 7,
+      "name": "Camisa da Nike",
+      "price": 191.90
+    }
+  ]
+}
